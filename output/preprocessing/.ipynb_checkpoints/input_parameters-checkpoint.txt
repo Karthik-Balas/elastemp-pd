@@ -1,0 +1,3 @@
+P_min : 0 GPa
+P_max : 100 GPa
+number of pressure points : 4

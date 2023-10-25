@@ -1,0 +1,3 @@
+T_min = 0
+ T_max = 1000
+ T_step = 10
